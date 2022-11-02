@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gdrgdrgre123
+=======
+gdrgdrgre123124
+>>>>>>> new
